@@ -31,7 +31,7 @@ NameIETI is a simple Spring Boot application that provides a REST endpoint to re
    ```
 
 4. Access the REST endpoint at:
-   ```
+   ```bash
    http://localhost:8080/name
    ```
 
@@ -39,6 +39,12 @@ NameIETI is a simple Spring Boot application that provides a REST endpoint to re
 
 - **GET** `/name`  
   Returns a static string: `"My name is Johann Amaya"`
+
+## Live Deployment
+The application is deployed on Railway and can be accessed at the following URL:
+```bash
+    https://nameieti-production.up.railway.app/name
+```
 
 ## Testing
 
