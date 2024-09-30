@@ -34,3 +34,6 @@ build/
 
 ### MVN ###
 .mvn/
+
+### MVNW ###
+.mvnw
